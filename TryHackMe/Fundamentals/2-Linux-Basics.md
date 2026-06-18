@@ -6,13 +6,13 @@
 
 ---
 
-## 🎯 Executive Summary
+## Executive Summary
 
 This documentation covers the essential Linux terminal commands, operators, and data redirection properties necessary for system navigation and log parsing. Fluency within the Linux Command Line Interface (CLI) is a core prerequisite for defensive security operations, as massive web, authentication, and application logs are processed entirely through text-filtering utilities.
 
 ---
 
-## 🔍 System Navigation & Information Gathering
+## System Navigation & Information Gathering
 
 - **`whoami`**: Outputs the exact username of the currently active session profile.
   ![whoami output](./images/whoami.png)
@@ -44,7 +44,7 @@ This documentation covers the essential Linux terminal commands, operators, and 
 
 ---
 
-## 📊 Deep-Dive: Advanced Filtering with `grep`
+## Deep-Dive: Advanced Filtering with `grep`
 
 In security workflows, manual file reading is impossible due to massive log sizes. **`grep`** allows an analyst to instantly extract specific indicator values.
 
@@ -60,7 +60,7 @@ In security workflows, manual file reading is impossible due to massive log size
 
 ---
 
-## ⚡ Special Operators & Data Redirection
+## Special Operators & Data Redirection
 
 Special operators and redirectors allow an analyst to manipulate process tracking, execution states, and terminal output streams.
 

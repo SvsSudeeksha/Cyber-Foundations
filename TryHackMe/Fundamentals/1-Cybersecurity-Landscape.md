@@ -6,13 +6,13 @@
 
 ---
 
-## 🎯 Executive Summary
+## Executive Summary
 
 This document outlines my strategic entry into the cybersecurity ecosystem, contrasting the core methodologies of Offensive Security (Active Exploitation) and Defensive Security (Continuous Monitoring and Threat Mitigation). Through hands-on simulations, I analyzed how attackers discover hidden system assets and how Security Operations Center (SOC) analysts identify, triage, and contain live malicious activity.
 
 ---
 
-## 🛡️ Defensive Security: Threat Detection & Containment
+## Defensive Security: Threat Detection & Containment
 
 ### 1. Architectural Concept
 
@@ -28,7 +28,7 @@ I interacted with a mock Security Operations Center (SOC) management console to 
 
 ---
 
-## ⚔️ Offensive Security: Vulnerability Discovery
+## Offensive Security: Vulnerability Discovery
 
 ### 1. Architectural Concept
 
@@ -44,6 +44,6 @@ I simulated an external attack vector targeting a banking application web portal
 
 ---
 
-## 💡 Strategic Takeaway for an L1 SOC Role
+## Strategic Takeaway for an L1 SOC Role
 
 Experiencing both sides reinforces my decision to pursue a SOC Analyst track. Understanding the exact syntax and logic attackers use to enumerate web servers (such as running `dirb`) allows me to better interpret web server access logs and recognize scanning footprints before an exploitation phase succeeds.

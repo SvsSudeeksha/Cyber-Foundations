@@ -29,7 +29,7 @@ This documentation covers the essential Linux terminal commands, operators, and 
 
 ---
 
-## 📁 File Manipulation, Management, & Searching
+## File Manipulation, Management, & Searching
 
 - **`echo`**: Outputs a specified string of text directly to the standard output stream.
   ![echo output](./images/echo.png)
